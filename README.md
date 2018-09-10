@@ -1,4 +1,4 @@
-This is an augmented reality solar system project to enhance learning for children age 4 to 6 years old on planets in our solar system. The system is written using Flash with ARToolkit. This system has also used Papervision 3D to provide more stunning 3D graphics by enhancing Flash graphics. 
+This is an augmented reality solar system project to enhance learning for children age 4 to 6 years old on planets in our solar system. The system is written using Flash with ARToolkit. This system also used Papervision 3D to provide more stunning 3D graphics by enhancing Flash graphics. 
 
 Requirements to run the system are as below:
 
